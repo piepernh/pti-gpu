@@ -1,4 +1,4 @@
-# Metrics Collectoin with oneAPI Level Zero (Level Zero) Metric API
+# Metrics Collection with oneAPI Level Zero (Level Zero) Metric API
 ## Overview
 oneAPI Level Zero runtime provides a set of API to collect hardware metrics for Intel(R) Processor Graphics.
 
